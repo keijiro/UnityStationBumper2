@@ -1,0 +1,16 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "jp.keijiro" ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.recorder": "4.0.0-pre.3",
+    "com.unity.render-pipelines.universal": "12.1.5",
+    "com.unity.visualeffectgraph": "12.1.5",
+    "jp.keijiro.shadergraphassets": "1.0.10",
+    "jp.keijiro.vfxgraphassets": "1.0.9"
+  }
+}
