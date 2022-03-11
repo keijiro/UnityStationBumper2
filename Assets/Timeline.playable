@@ -851,7 +851,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 2
+  take: 6
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -1697,7 +1697,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 1
+        value: 0.45036802
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1706,7 +1706,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1725,7 +1725,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 0.4980392
+        value: 0.90800005
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1734,7 +1734,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1753,7 +1753,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 0.2235294
+        value: 0.68520546
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1762,7 +1762,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1874,7 +1874,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 1
+        value: 0.45036802
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1883,7 +1883,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1902,7 +1902,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 0.4980392
+        value: 0.90800005
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1911,7 +1911,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1930,7 +1930,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 5
-        value: 0.2235294
+        value: 0.68520546
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1939,7 +1939,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 5.483333
-        value: 1
+        value: 1.4
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -2435,7 +2435,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 2
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -3294,7 +3294,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 2
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -3652,7 +3652,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 2
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
