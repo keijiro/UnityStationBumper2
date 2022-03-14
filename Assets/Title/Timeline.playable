@@ -732,7 +732,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 1
+  take: 10
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -744,10 +744,10 @@ MonoBehaviour:
   m_Version: 1
   encoderSettings:
     rid: 8713104406232170498
-  captureAlpha: 0
+  captureAlpha: 1
   captureAudio: 0
   m_ImageInputSelector:
-    m_Selected: gameViewInputSettings
+    m_Selected: renderTextureInputSettings
     gameViewInputSettings:
       m_OutputResolution:
         m_CustomWidth: 1024
@@ -763,7 +763,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 0
+        imageHeight: 1080
         maxSupportedHeight: 4320
         m_AspectRatio:
           m_CustomAspectX: 1
@@ -783,7 +783,7 @@ MonoBehaviour:
       m_OutputWidth: 1024
       m_OutputHeight: 2048
     renderTextureInputSettings:
-      renderTexture: {fileID: 0}
+      renderTexture: {fileID: 8400000, guid: e8b6622d1210b444db56dec65ae24d81, type: 2}
       flipFinalOutput: 0
     renderTextureSamplerSettings:
       source: 1
