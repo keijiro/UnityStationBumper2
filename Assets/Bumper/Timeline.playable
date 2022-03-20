@@ -851,7 +851,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 7
+  take: 8
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -1697,7 +1697,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.64830464
+        value: 0.5254902
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1725,7 +1725,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.84400004
+        value: 0.8011526
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1753,7 +1753,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.52665603
+        value: 0.84313726
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1874,7 +1874,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.64830464
+        value: 0.5254902
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1902,7 +1902,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.84400004
+        value: 0.8011526
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -1930,7 +1930,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.52665603
+        value: 0.84313726
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -2435,7 +2435,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 6
+  take: 7
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -3294,7 +3294,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 6
+  take: 7
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -3652,7 +3652,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 6
+  take: 7
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
