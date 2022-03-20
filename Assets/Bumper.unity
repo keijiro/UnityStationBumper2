@@ -413,7 +413,7 @@ VisualEffect:
       m_Array: []
     m_Vector4f:
       m_Array:
-      - m_Value: {x: 0.20545201, y: 0.4317865, z: 0.468, w: 1}
+      - m_Value: {x: 0.504, y: 0.14559999, z: 0.19039999, w: 1}
         m_Name: Color
         m_Overridden: 1
     m_Uint:
@@ -914,7 +914,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.36900002, g: 0.3406154, b: 0.3264231, a: 1}
+  m_BackGroundColor: {r: 0.46794, g: 0.6013151, b: 0.66, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
