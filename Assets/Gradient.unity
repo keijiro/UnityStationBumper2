@@ -330,18 +330,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _gradient:
     R:
-      x: 0.37
-      y: -0.52
-      z: 1.21
+      x: 0.41
+      y: -0.38
+      z: 1.34
       w: 0.06
     G:
-      x: 0.5
-      y: 0.27
+      x: 0.44
+      y: 0.3
       z: 1.15
-      w: 0.63
+      w: 0.66
     B:
-      x: 0.5
-      y: 0.5
+      x: 0.34
+      y: 0.41
       z: 1
       w: 0.6666667
   _propertyName: _Gradient
