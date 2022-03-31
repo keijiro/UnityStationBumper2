@@ -147,7 +147,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: BG
+    m_FileName: Gradient<Take>
   m_Version: 1
   encoderSettings:
     rid: 8713104590114390018
