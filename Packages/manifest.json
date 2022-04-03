@@ -11,6 +11,7 @@
     "com.unity.render-pipelines.universal": "12.1.6",
     "com.unity.visualeffectgraph": "12.1.6",
     "jp.keijiro.klak.cosinegradient": "1.1.0",
+    "jp.keijiro.klak.timeline.procedural-motion": "1.0.2",
     "jp.keijiro.metamesh": "1.0.1",
     "jp.keijiro.shadergraphassets": "2.5.0",
     "jp.keijiro.vfxgraphassets": "1.0.10"
